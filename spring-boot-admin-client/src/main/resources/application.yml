@@ -1,0 +1,8 @@
+
+spring:
+  boot:
+    admin:
+      auto-deregistration: true
+      url: http://localhost:8081
+      client:
+        name: spring-boot-admin-client
