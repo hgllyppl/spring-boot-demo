@@ -1,0 +1,17 @@
+
+config-bean:
+  string: test
+  array: 1,2
+  list: 1,2
+  map:
+    k1: v1
+    k2: v2
+  list-map:
+    - k1: v1
+    - k2: v2
+  students:
+    - id: 1
+      name: z3
+    - id: 2
+      name: l4
+

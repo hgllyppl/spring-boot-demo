@@ -9,7 +9,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class AppMain {
 
-    // TODO 如何确定扫描路径
+    // 如何确定环境配置
+    // 如何统一日志
+    // 自动配置-条件
     public static void main(String[] args) {
         SpringApplication.run(AppMain.class, args);
     }
