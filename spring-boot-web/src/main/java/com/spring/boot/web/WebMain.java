@@ -9,7 +9,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class WebMain {
 
-    // TODO web作用域
     public static void main(String[] args) {
         SpringApplication.run(WebMain.class, args);
     }
